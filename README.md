@@ -1,4 +1,4 @@
-## Boilerplate Repository - Challenge-31
+## Boilerplate Repository - Challenge-31 - Stock Analyzer
 
 ### Instructions
 Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
